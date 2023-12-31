@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --text-small-semi-bold: Roboto;
+  --title-large: "DM Sans";
+  --headline-large-sb: Poppins;
+  --font-playfair-display: "Playfair Display";
+
+  /* font sizes */
+  --title-medium-size: 16px;
+  --text-small-semi-bold-size: 14px;
+  --font-size-2xs: 11px;
+  --font-size-xs: 12px;
+  --headline-large-sb-size: 32px;
+  --display-semibold-b-size: 48px;
+  --display-large-size: 57px;
+  --title-large-size: 22px;
+  --headline-small-sb-size: 24px;
+
+  /* Colors */
+  --tertiary-0: #fffdfc;
+  --color-gray-100: #998f8a;
+  --color-gray-200: #888682;
+  --sage-5: #1f241f;
+  --color-gray-300: rgba(255, 255, 255, 0.5);
+  --color1: #000;
+  --neutral-dark-gray: #505050;
+  --salt-4: #4c4a44;
+  --light-grey: #f4f4f4;
+  --salt-1: #f2f1ed;
+  --color2: #f26c3b;
+  --color3: #fff;
+  --color-silver: #b8b8b8;
+  --brand: #013328;
+  --color: #781c1c;
+  --secondary-0: #fffbf5;
+  --secondary-500: #ddc5a0;
+
+  /* Spacing */
+  --corner-3: 36px;
+  --corners: 12px;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+  --gap-base: 16px;
+  --gap-5xs: 8px;
+  --gap-5xl: 24px;
+  --gap-9xs: 4px;
+  --gap-13xl: 32px;
+  --gap-xs: 12px;
+  --gap-61xl: 80px;
+  --gap-45xl: 64px;
+
+  /* Paddings */
+  --padding-xs: 12px;
+  --padding-13xl: 32px;
+  --padding-77xl: 96px;
+  --padding-5xs: 8px;
+  --padding-45xl: 64px;
+  --padding-20xl: 39px;
+  --padding-5xl: 24px;
+  --padding-31xl: 50px;
+  --padding-xl: 20px;
+  --padding-61xl: 80px;
+  --padding-9xs: 4px;
+
+  /* Border radiuses */
+  --br-17xl: 36px;
+  --br-7xs: 6px;
+  --br-xs: 12px;
+  --br-5xl: 24px;
+  --br-9xs: 4px;
+}
